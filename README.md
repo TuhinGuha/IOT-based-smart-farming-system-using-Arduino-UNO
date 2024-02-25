@@ -3,7 +3,7 @@
 <p>The Internet of Things (IoT) is an ecosystem of physically connected gadgets. It is made up of microcontrollers, sensors, communication systems, processing, and computational units. The cloud server, a computer and processing unit, receives the data from the sensors over the Internet.
 In this project, a brand-new farmland monitoring system with a reliable design, excellent usability, and wireless connectivity has been created. The system was integrated using sensor-based input, an Arduino Uno interface, and GSM as the user interface (Farmer mobile).</p>
 
-<p>Objectives of the Project:</p>
+<h3>Objectives of the Project:</h3>
 <ul>
   <li>Using IOT to conduct smart farming.
   <li>To use IOT for farming modernization.
